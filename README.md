@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sqali
-- 👀 I’m interested in Machine learning and Big Data
+- 👀 I’m interested in Machine learning, Artificial Intelligence, Big Data
 - 🌱 I’m currently learning the fudamentals
 - 💞️ I’m looking to collaborate on Opensource AI,ML related projects
 - 📫 How to reach me @7326916872 (whatsapp)
