@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sqali
-- 👀 I’m interested in Machine learning, Artificial Intelligence, Big Data, DevOps
+- 👋 Hi, I’m Sayed Qaiser Ali
+- 👀 I’m interested in Machine learning, Deep Learning, DevOps
 - 🌱 I’m currently learning the fudamentals
 - 💞️ I’m looking to collaborate on Opensource AI, ML related projects
 - 📫 How to reach me - @qaiser_ali5 (Twitter), @7326916872 (whatsapp)
