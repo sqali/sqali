@@ -11,17 +11,50 @@ I am currently working at TCS as an Oracle PPM Analyst and aspiring to transitio
 - 🌱 I'm currently learning the fundamentals of data science.
 - 💞️ I'm looking to collaborate on open-source AI and ML projects to enhance my technical skills.
 - 🔭 I'm working on personal projects on GitHub and continuously improving them:
-  - Flask web application for aggregating GitHub commit data.
+
+
+  - Flask web application for aggregating GitHub commit data from a user defined repository.
   - Document classification using convolutional neural networks.
+  - Spoken Digit Recognition
+  - NLP Attention mechanism for language translation
+  - Report summary generation from Business, Legal & Research documents
+  - Computer Vision Segmentation of Traffic
+
+- 📚 I love creating GitHub documentation for these tasks to use as technical documentation.
+- ✍️ I enjoy writing technical blogs to share my learnings and experiences.
+- 🚀 I am constantly working on enhancing my tech arsenal and staying up-to-date with the latest advancements in the field.
+
+## What I have learnt
+- Flask web application development
+- Website routing (GET, POST, DELETE, PUT)
+- Working with REST APIs, including handling API rate limits
+- Version control with Git
+- GitHub for hosting and managing personal projects
+- Pandas for data manipulation and cleaning
+- Numpy for fast mathematical computations
+- MySQL queries for database manipulation and retrieval
+- Creating and normalizing database schemas in MySQL Workbench
+- Linux server administration and package/application installation
+- Docker file creation and containerization for application deployment
+- GitHub Actions for CI/CD implementation and workflow automation
+- Data cleaning and featurization for machine learning insights
+- Applying machine learning algorithms for data analysis
+- Deep learning for audio and image processing tasks
+- TensorFlow and Keras for deep learning model building
+- Using TensorBoard to monitor training progress
+
 
 ## Skills
 - Python
 - Linux
 - MySQL
 - Git & GitHub
+- GitHub Actions / CI/CD
 - Docker
+- AWS
+- Excel
 
-I have a strong passion for learning and enjoy documenting my work. If you are interested in collaborating or have any questions, feel free to reach out to me!
+I have a strong passion for learning, documenting my work, and sharing knowledge. If you are interested in collaborating, have any questions, or want to check out my technical blogs, feel free to reach out to me!
 
 ## Reach Me
 - LinkedIn: [Sayed Qaiser Ali](https://www.linkedin.com/in/sayed-qaiser-ali-916b181ab/)
