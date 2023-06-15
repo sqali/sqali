@@ -58,5 +58,5 @@ I have a strong passion for learning, documenting my work, and sharing knowledge
 
 ## Reach Me
 - LinkedIn: [Sayed Qaiser Ali](https://www.linkedin.com/in/sayed-qaiser-ali-916b181ab/)
-- Twitter: [@qaiser_ali5](https://twitter.com/qaiser_ali5)
+- Twitter: [@qaiser_707](https://twitter.com/qaiser_707)
 - WhatsApp: [+91-7326916872](tel:+917326916872)
