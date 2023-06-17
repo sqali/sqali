@@ -26,7 +26,6 @@ I am currently working at TCS as an Oracle PPM Analyst and aspiring to transitio
 
 ## What I have learnt
 - Flask web application development
-- Website routing (GET, POST, DELETE, PUT)
 - Working with REST APIs, including handling API rate limits
 - Version control with Git
 - GitHub for hosting and managing personal projects
