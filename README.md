@@ -42,6 +42,10 @@ I am currently working at TCS as an Oracle PPM Analyst and aspiring to transitio
 - TensorFlow and Keras for deep learning model building
 - Using TensorBoard to monitor training progress
 
+## Open Source
+
+Recently I have started contributing to open-source projects like Huggingface, and Pandas. I have followed the proper code of conduct for raising pull requests and updating their documentation. I am want to take my skills to the next level by fixing existing bugs and improving the projects anyhow.
+
 
 ## Skills
 - Python
