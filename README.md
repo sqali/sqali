@@ -42,9 +42,21 @@ I am currently working at TCS as an Oracle PPM Analyst and aspiring to transitio
 - TensorFlow and Keras for deep learning model building
 - Using TensorBoard to monitor training progress
 
-## Open Source
+## Open Source Contributions
 
-Recently I have started contributing to open-source projects like Huggingface, and Pandas. I have followed the proper code of conduct for raising pull requests and updating their documentation. I am want to take my skills to the next level by fixing existing bugs and improving the projects anyhow.
+I'm passionate about open-source software and have recently started contributing to various projects. My main focus has been on updating and improving documentation to make it more user-friendly and comprehensive.
+
+### Current Contributions
+
+- [pandas](https://github.com/pandas-dev/pandas): Updated the documentation to replace the deprecated version of qgrid with Modin-spreadsheet
+- [Huggingface/Transformers](https://github.com/huggingface/transformers/pull/24307): Updated the README documentation to include a comprehensive list of tested versions for different dependencies, ensuring better compatibility and reliability.
+
+### Future Goals
+
+While I'm currently focused on documentation, I'm eager to further develop my skills and become proficient in fixing existing bugs and introducing new features. I believe this will allow me to make more meaningful contributions to open-source projects and have a positive impact on the developer community.
+
+I'm excited about the journey ahead and look forward to collaborating with other developers and expanding my knowledge in the open-source world.
+
 
 
 ## Skills
