@@ -1,6 +1,6 @@
 # Hi, I'm Sayed Qaiser Ali! 👋
 
-I am currently working at TCS as an Oracle PPM Analyst and aspiring to transition into the exciting field of data science. I have a keen interest in machine learning, deep learning, and DevOps. Currently, I am focused on building a strong foundation in the fundamentals of data science.
+I am currently working at TCS as an Oracle PPM Analyst and aspire to transition into the exciting field of data science. I have a keen interest in machine learning, deep learning, and DevOps. Currently, I am focused on building a strong foundation in the fundamentals of data science.
 
 ## Interests
 - Machine Learning
@@ -13,7 +13,7 @@ I am currently working at TCS as an Oracle PPM Analyst and aspiring to transitio
 - 🔭 I'm working on personal projects on GitHub and continuously improving them:
 
 
-  - Flask web application for aggregating GitHub commit data from a user defined repository.
+  - Flask web application for aggregating GitHub commit data from a user-defined repository.
   - Document classification using convolutional neural networks.
   - Spoken Digit Recognition
   - NLP Attention mechanism for language translation
@@ -26,9 +26,9 @@ I am currently working at TCS as an Oracle PPM Analyst and aspiring to transitio
 
 ## What I have learnt
 - Flask web application development
-- Working with REST APIs, including handling API rate limits
+- Working with REST APIs
 - Version control with Git
-- GitHub for hosting and managing personal projects
+- GitHub for hosting and managing projects
 - Pandas for data manipulation and cleaning
 - Numpy for fast mathematical computations
 - MySQL queries for database manipulation and retrieval
@@ -48,7 +48,8 @@ I'm passionate about open-source software and have recently started contributing
 
 ### Current Contributions
 
-- [pandas](https://github.com/pandas-dev/pandas): Updated the documentation to replace the deprecated version of qgrid with Modin-spreadsheet
+- [keras](https://github.com/keras-team/keras-core/pull/513): Updated the comments based on the code
+- [pandas](https://github.com/pandas-dev/pandas/pull/53980): Updated the documentation to replace the deprecated version of qgrid with Modin-spreadsheet
 - [Huggingface/Transformers](https://github.com/huggingface/transformers/pull/24307): Updated the README documentation to include a comprehensive list of tested versions for different dependencies, ensuring better compatibility and reliability.
 
 ### Future Goals
@@ -58,8 +59,8 @@ While I'm currently focused on documentation, I'm eager to further develop my sk
 I'm excited about the journey ahead and look forward to collaborating with other developers and expanding my knowledge in the open-source world.
 
 
-
 ## Skills
+- C++
 - Python
 - Linux
 - MySQL
@@ -75,3 +76,4 @@ I have a strong passion for learning, documenting my work, and sharing knowledge
 - LinkedIn: [Sayed Qaiser Ali](https://www.linkedin.com/in/sayed-qaiser-ali-916b181ab/)
 - Twitter: [@qaiser_707](https://twitter.com/qaiser_707)
 - WhatsApp: [+91-7326916872](tel:+917326916872)
+- Gmail: [qaiserali45@gmail.com](qaiserali45@gmail.com)
