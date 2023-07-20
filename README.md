@@ -1,11 +1,10 @@
 # Hi, I'm Sayed Qaiser Ali! 👋
 
-I am currently working at TCS as an Oracle PPM Analyst and aspire to transition into the exciting field of deep learning. I have a keen interest in machine learning, deep learning, and DevOps. Currently, I am focused on building a strong foundation in the fundamentals of data science.
+I am currently working at TCS as an Oracle PPM Analyst and aspire to transition into the exciting field of deep learning. I have a keen interest in machine learning, deep learning. Currently, I am focused on building a strong foundation in the fundamentals of data science.
 
 ## Interests
 - Machine Learning
 - Deep Learning
-- DevOps
 
 ## What I'm Doing
 - 🌱 I'm currently learning the fundamentals of data science.
@@ -70,6 +69,12 @@ I'm excited about the journey ahead and look forward to collaborating with other
 - Docker
 - AWS
 - Excel
+- 
+## Certifications
+
+- Oracle Cloud Architect Associate
+- Azure Data Scientist Associate
+- GitHub Actions
 
 I have a strong passion for learning, documenting my work, and sharing knowledge. If you are interested in collaborating, have any questions, or want to check out my technical blogs, feel free to reach out to me!
 
