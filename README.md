@@ -69,7 +69,7 @@ I'm excited about the journey ahead and look forward to collaborating with other
 - Docker
 - AWS
 - Excel
-- 
+
 ## Certifications
 
 - Oracle Cloud Architect Associate
