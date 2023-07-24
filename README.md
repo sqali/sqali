@@ -1,6 +1,18 @@
 # Hi, I'm Sayed Qaiser Ali! 👋
 
+## Introduction
+
 I am currently working at TCS as an Oracle PPM Analyst and aspire to transition into the exciting field of deep learning. I have a keen interest in machine learning, deep learning. Currently, I am focused on building a strong foundation in the fundamentals of data science.
+
+## Work Experience
+
+### Tata Consultancy Services - *Oracle PPM Analyst* *July 2021* to *Present*
+
+- Collaborating with project teams to understand their business requirements and designing solutions that meet their needs
+- Configuring and customizing Oracle PPM software to align with project management best practices and client-specific requirements.
+- Training end-users on how to use the Oracle PPM software and providing ongoing support
+- Identifying areas for process improvement and recommending solutions to optimize project management processes
+
 
 ## Interests
 - Machine Learning
