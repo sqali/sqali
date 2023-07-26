@@ -35,7 +35,7 @@ I am currently working at TCS as an Oracle PPM Analyst and aspire to transition 
 - ✍️ I enjoy writing technical blogs to share my learnings and experiences.
 - 🚀 I am constantly working on enhancing my tech arsenal and staying up-to-date with the latest advancements in the field.
 
-## What I have learnt
+## What I have learned
 - Flask web application development
 - Working with REST APIs
 - Version control with Git
@@ -79,13 +79,16 @@ I'm excited about the journey ahead and look forward to collaborating with other
 - Git & GitHub
 - GitHub Actions / CI/CD
 - Docker
+- Oracle Cloud Infrastructure
 - AWS
 - Excel
 
 ## Certifications
 
-- Oracle Cloud Architect Associate
-- Azure Data Scientist Associate
+- Oracle Cloud Infrastructure Enterprise Analytics Professional (1Z0-1041-23)
+- Oracle Cloud Infrastructure Data Science Professional (1Z0-1110-23)
+- Oracle Cloud Infrastructure Architect Associate (1Z0-1072-23)
+- Azure Data Scientist Associate (DP-100)
 - GitHub Actions
 
 I have a strong passion for learning, documenting my work, and sharing knowledge. If you are interested in collaborating, have any questions, or want to check out my technical blogs, feel free to reach out to me!
