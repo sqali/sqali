@@ -2,7 +2,7 @@
 
 ## Introduction
 
-I am currently working at TCS as an Oracle PPM Analyst and aspire to transition into the exciting field of deep learning. I have a keen interest in machine learning, deep learning. Currently, I am focused on building a strong foundation in the fundamentals of data science.
+I am currently working at TCS as an Oracle PPM Analyst and aspire to transition into the exciting field of deep learning. I have a keen interest in machine learning, deep learning. Currently, I am focused on building a strong foundation in the fundamentals of data science
 
 ## 💼 Work Experience
 
@@ -12,7 +12,7 @@ I am currently working at TCS as an Oracle PPM Analyst and aspire to transition 
 *July 2021 - Present, Bhubaneswar, Odisha, India*
 
 - Collaborating with project teams to understand their business requirements and designing solutions that meet their needs
-- Configuring and customizing Oracle PPM software to align with project management best practices and client-specific requirements.
+- Configuring and customizing Oracle PPM software to align with project management best practices and client-specific requirements
 - Training end-users on how to use the Oracle PPM software and providing ongoing support
 - Identifying areas for process improvement and recommending solutions to optimize project management processes
 
@@ -30,21 +30,12 @@ I am currently working at TCS as an Oracle PPM Analyst and aspire to transition 
 
 
 ## What I'm Doing
-- 🌱 I'm currently learning the fundamentals of data science.
-- 💞️ I'm looking to collaborate on open-source AI and ML projects to enhance my technical skills.
-- 🔭 I'm working on personal projects on GitHub and continuously improving them:
-
-
-  - Flask web application for aggregating GitHub commit data from a user-defined repository.
-  - Document classification using convolutional neural networks.
-  - Spoken Digit Recognition
-  - NLP Attention mechanism for language translation
-  - Report summary generation from Business, Legal & Research documents
-  - Computer Vision Segmentation of Traffic
-
+- 🌱 I'm currently learning data science
+- 💞️ I'm looking to collaborate on open-source AI and ML projects to enhance my technical skills
+- 🔭 I'm working on personal projects on GitHub and continuously improving them
 - 📚 I love creating GitHub documentation for these tasks to use as technical documentation.
-- ✍️ I enjoy writing technical blogs to share my learnings and experiences.
-- 🚀 I am constantly working on enhancing my tech arsenal and staying up-to-date with the latest advancements in the field.
+- ✍️ I enjoy writing technical blogs to share my learnings and experiences
+- 🚀 I am constantly working on enhancing my tech arsenal and staying up-to-date with the latest advancements in the field
 
 
 ## What I have learned
@@ -52,18 +43,11 @@ I am currently working at TCS as an Oracle PPM Analyst and aspire to transition 
 - Working with REST APIs
 - Version control with Git
 - GitHub for hosting and managing projects
-- Pandas for data manipulation and cleaning
-- Numpy for fast mathematical computations
 - MySQL queries for database manipulation and retrieval
 - Creating and normalizing database schemas in MySQL Workbench
 - Linux server administration and package/application installation
 - Docker file creation and containerization for application deployment
 - GitHub Actions for CI/CD implementation and workflow automation
-- Data cleaning and featurization for machine learning insights
-- Applying machine learning algorithms for data analysis
-- Deep learning for audio and image processing tasks
-- TensorFlow and Keras for deep learning model building
-- Using TensorBoard to monitor training progress
 
 
 ## Open Source Contributions
