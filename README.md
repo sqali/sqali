@@ -99,11 +99,13 @@ I'm excited about the journey ahead and look forward to collaborating with other
 
 
 ## 📜 Certifications
-- Oracle Cloud Infrastructure Architect Associate (**1Z0-1072-23**) - [verify](https://catalog-education.oracle.com/pls/certview/sharebadge?id=0806C2C0204969B31945998A5208A6EF75CD46C6C59493F8F1CF5401C407F306)
-- Oracle Cloud Infrastructure Data Science Professional (**1Z0-1110-23**)
-- Oracle Cloud Infrastructure Enterprise Analytics Professional (**1Z0-1041-23**)
-- Microsoft Azure Data Scientist Associate (**DP-100**)
-- GitHub Actions
+| Certifications                                                  |    Code       | Acquired | Cred URL   |
+|-----------------------------------------------------------------|---------------|----------|------------|
+| Oracle Cloud Infrastructure Architect Associate                 | 1Z0-1072-23   | &#x2705; | [Verify](https://catalog-education.oracle.com/pls/certview/sharebadge?id=0806C2C0204969B31945998A5208A6EF75CD46C6C59493F8F1CF5401C407F306) |
+| Oracle Cloud Infrastructure Data Science Professional           | 1Z0-1110-23   | &#x2705; | [Verify]() |
+| Oracle Cloud Infrastructure Enterprise Analytics Professional   | 1Z0-1041-23   | &#x2705; | [Verify]() |
+| Microsoft Azure Data Scientist Associate                        | DP-100        | &#x2705; | [Verify]() |
+| GitHub Actions                                                  |               | &#x2705; | [Verify]() |
 
 I have a strong passion for learning, documenting my work, and sharing knowledge. If you are interested in collaborating, have any questions, or want to check out my technical blogs, feel free to reach out to me!
 
