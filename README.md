@@ -70,6 +70,7 @@ I am currently working at TCS as an Oracle PPM Analyst and aspire to transition 
 
 I'm passionate about open-source software and have recently started contributing to various projects. My main focus has been on updating and improving documentation to make it more user-friendly and comprehensive.
 
+![SQAli's GitHub stats](https://github-readme-stats.vercel.app/api?username=sqali&show_icons=true)
 
 ### Current Contributions
 
