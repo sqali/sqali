@@ -80,7 +80,7 @@ I'm excited about the journey ahead and look forward to collaborating with other
 | Cloud Computing     | Oracle, AWS (Sagemaker), Azure (Azure ML)        |
 | ML Deployment Tools | Docker, MLflow, GitHub Actions                   |
 | Data Visualization  | Oracle Analytics Cloud, Streamlit                |
-| Data Management     | MySQL Workbench, MS Access                       |
+| Data Management     | MySQL Workbench                      |
 | Version Control     | Git, GitHub                                      |
 | MS Office           | Excel, Powerpoint, Word                          |
 | Coding IDE          | VS Code                                          |
