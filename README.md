@@ -19,7 +19,7 @@ I am currently working at TCS as an Oracle PPM Analyst and aspire to transition 
 
 ## 🎓 Education
 ### National Institute of Science & Technology
-**Bachelor of Engineering (Mechanical), 2021**
+**Bachelor of Engineering (Mechanical), 2017-2021**
 - CGPA: 8.2/10
 - Coursework: Fluid Mechanics, Thermodynamics, Statistics, C Programming, Predictive Analytics with Python (Machine Learning), Database Management (SQL)
 
