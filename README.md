@@ -71,16 +71,22 @@ While I'm currently focused on documentation, I'm eager to further develop my sk
 I'm excited about the journey ahead and look forward to collaborating with other developers and expanding my knowledge in the open-source world.
 
 
-## 🤖 Skills
-- **Programming:** Python (NumPy, Pandas, Scikit-learn, Keras, PyTorch, TensorFlow), C++, Linux
-- **Others:** 
-  - Database: MySQL
-  - Cloud Computing: Oracle, Azure, AWS
-  - Containerization Tools - Docker
-  - Visualization: Oracle Analytics Cloud, Matplotlib, Seaborn, Plotly
-  - Statistical Tools: Excel
-  - Version Control: Git, GitHub
-  - Graphics design: Figma, Canva
+## 🤖 Technical Skills
+
+| Technical Skill      | Skills                                           |
+|---------------------|---------------------------------------------------|
+| Programming         | Python (NumPy, Pandas, Scikit-learn, Keras, TensorFlow), C++|
+| Database Management | MySQL                                            |
+| Cloud Computing     | Oracle, AWS (Sagemaker), Azure (Azure ML)        |
+| ML Deployment Tools | Docker, MLflow, GitHub Actions                   |
+| Data Visualization  | Oracle Analytics Cloud, Streamlit                |
+| Data Management     | MySQL Workbench, MS Access                       |
+| Version Control     | Git, GitHub                                      |
+| MS Office           | Excel, Powerpoint, Word                          |
+| Coding IDE          | VS Code                                          |
+| GenAI tool          | OpenAI (ChatGPT), Midjourney                     |
+| Operating System    | Windows, Linux                                   |
+
 
 
 ## 📜 Certifications
