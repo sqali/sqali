@@ -11,22 +11,34 @@ I am currently working at TCS as an Oracle PPM Analyst and aspire to transition 
 
 *July 2021 - Present, Bhubaneswar, Odisha, India*
 
-- Collaborating with project teams to understand their business requirements and designing solutions that meet their needs
-- Configuring and customizing Oracle PPM software to align with project management best practices and client-specific requirements
-- Training end-users on how to use the Oracle PPM software and providing ongoing support
-- Identifying areas for process improvement and recommending solutions to optimize project management processes
+**Oracle PPM**
+
+-	Collaborating with project teams to understand their business
+requirements and designing solutions that meet their needs
+-	Configuring and customizing Oracle PPM software to align
+with project management best practices and client-specific requirements.
+-	Training end-users on how to use the Oracle PPM software
+and providing ongoing support
+- Identifying areas for process improvement and
+recommending solutions to optimize project management processes
+
+**Reporting & Analysis using Oracle Database SQL**
+
+- Data-Driven Insights: Leveraging my skills in Oracle Database SQL, I transform raw data into actionable insights
+- Tailored Reporting Solutions: I collaborate with colleagues to understand reporting requirements and design customized reporting solutions that cater to specific business needs
+- Cross-Functional Collaboration: Working closely with the reporting team, I synergize my Oracle PPM expertise with database querying capabilities
 
 
 ## 🎓 Education
 ### National Institute of Science & Technology
 **Bachelor of Engineering (Mechanical), 2017-2021**
-- CGPA: 8.2/10
 - Coursework: Fluid Mechanics, Thermodynamics, Statistics, C Programming, Predictive Analytics with Python (Machine Learning), Database Management (SQL)
 
 
 ## Interests
 - Machine Learning
 - Deep Learning
+- Reinforcement Learning
 
 
 ## What I'm Doing
