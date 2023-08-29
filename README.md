@@ -110,7 +110,6 @@ I'm excited about the journey ahead and look forward to collaborating with other
 |-----------------------------------------------------------------|---------------|----------|------------|
 | Oracle Cloud Infrastructure Architect Associate                 | 1Z0-1072-23   | &#x2705; | [Verify](https://catalog-education.oracle.com/pls/certview/sharebadge?id=0806C2C0204969B31945998A5208A6EF75CD46C6C59493F8F1CF5401C407F306) |
 | Oracle Cloud Infrastructure Data Science Professional           | 1Z0-1110-23   | &#x2705; | [Verify](https://catalog-education.oracle.com/pls/certview/sharebadge?id=69B0E79DF74022BF351689E761359479683CEA603B519F822D4C9A2456223099) |
-| Oracle Cloud Infrastructure Enterprise Analytics Professional   | 1Z0-1041-23   | &#x2705; | [Verify]() |
 | Oracle Database SQL                                             | 1Z0-071       | &#x2705; | [Verify]() |
 | Microsoft Azure Data Scientist Associate                        | DP-100        | &#x2705; | [Verify]() |
 | GitHub Actions                                                  |               | &#x2705; | [Verify]() |
