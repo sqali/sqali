@@ -89,14 +89,14 @@ I'm excited about the journey ahead and look forward to collaborating with other
 
 ## 🤖 Technical Skills
 
-| Technical Skill      | Skills                                           |
+| Technical Skill     | Skills                                           |
 |---------------------|---------------------------------------------------|
-| Programming         | Python (NumPy, Pandas, Scikit-learn, Keras, TensorFlow), C++|
-| Database Management | MySQL                                            |
-| Cloud Computing     | Oracle, AWS (Sagemaker), Azure (Azure ML)        |
+| Programming         | Python , Golang, C++                             |
+| Database Management | Oracle Database SQL, MySQL                       |
+| Cloud Computing     | Oracle, Azure                                    |
+| Infrastructure Management | Terraform                                  |
 | ML Deployment Tools | Docker, MLflow, GitHub Actions                   |
-| Data Visualization  | Oracle Analytics Cloud, Streamlit                |
-| Data Management     | MySQL Workbench                      |
+| Data Management     | MySQL Workbench                                  |
 | Version Control     | Git, GitHub                                      |
 | MS Office           | Excel, Powerpoint, Word                          |
 | Coding IDE          | VS Code                                          |
@@ -108,10 +108,10 @@ I'm excited about the journey ahead and look forward to collaborating with other
 ## 📜 Certifications
 | Certifications                                                  |    Code       | Acquired | Cred URL   |
 |-----------------------------------------------------------------|---------------|----------|------------|
-| Oracle Cloud Infrastructure Architect Associate                 | 1Z0-1072-23   | &#x2705; | [Verify](https://catalog-education.oracle.com/pls/certview/sharebadge?id=0806C2C0204969B31945998A5208A6EF75CD46C6C59493F8F1CF5401C407F306) |
 | Oracle Cloud Infrastructure Data Science Professional           | 1Z0-1110-23   | &#x2705; | [Verify](https://catalog-education.oracle.com/pls/certview/sharebadge?id=69B0E79DF74022BF351689E761359479683CEA603B519F822D4C9A2456223099) |
 | Oracle Database SQL                                             | 1Z0-071       | &#x2705; | [Verify]() |
-| Microsoft Azure Data Scientist Associate                        | DP-100        | &#x2705; | [Verify]() |
+| Microsoft Azure DevOps Expert                                   | AZ-400        | &#x2705; | [Verify]() |
+| Terraform Associate                                             | 003           | &#x2705; | [Verify]() |
 | GitHub Actions                                                  |               | &#x2705; | [Verify]() |
 
 I have a strong passion for learning, documenting my work, and sharing knowledge. If you are interested in collaborating, have any questions, or want to check out my technical blogs, feel free to reach out to me!
