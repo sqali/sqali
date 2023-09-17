@@ -90,17 +90,20 @@ I'm excited about the journey ahead and look forward to collaborating with other
 ## 🤖 Technical Skills
 
 | Technical Skill     | Skills                                           |
-|---------------------|---------------------------------------------------|
+|---------------------|--------------------------------------------------|
 | Programming         | Python , Golang, C++                             |
 | Database Management | Oracle Database SQL, MySQL                       |
 | Cloud Computing     | Oracle, Azure                                    |
 | Infrastructure Management | Terraform                                  |
-| ML Deployment Tools | Docker, MLflow, GitHub Actions                   |
-| Data Management     | MySQL Workbench                                  |
+| CI/CD Tools         | GitHub Actions                                   |
+| MLOps               | MLFlow                                           |
+| Containerization    | Docker                                           |
+| Orchestration       | Kubernetes                                       |
 | Version Control     | Git, GitHub                                      |
+| API Development     | REST API, GraphQL                                |
 | MS Office           | Excel, Powerpoint, Word                          |
 | Coding IDE          | VS Code                                          |
-| GenAI tool          | OpenAI (ChatGPT), Midjourney                     |
+| GenAI tool          | OpenAI (ChatGPT)                                 |
 | Operating System    | Windows, Linux                                   |
 
 
