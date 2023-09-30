@@ -41,7 +41,7 @@ recommending solutions to optimize project management processes
 - 📚 I love creating GitHub documentation for these tasks to use as technical documentation
 
 
-## What I have learned
+<!--## What I have learned
 <table>
 <tr><td><strong>Working with GraphQL and REST APIs</strong></td><td>Integrated GitHub's GraphQL API for real-time portfolio updates.</td></tr>
 <tr><td><strong>Version control with Git</strong></td><td>Managed codebase, tracked changes, and collaborated with contributors.</td></tr>
@@ -62,7 +62,7 @@ recommending solutions to optimize project management processes
 <tr><td><strong>Data visualization</strong></td><td>Showcased GitHub submission graphs and other analytical insights using Python.</td></tr>
 <tr><td><strong>Automated system monitoring and updates</strong></td><td>Developed dependency checkers and auto-updaters for consistent project maintenance.</td></tr>
 </table>
-
+-->
 
 
 
@@ -91,14 +91,14 @@ I'm excited about the journey ahead and look forward to collaborating with other
 
 | Technical Skill     | Skills                                           |
 |---------------------|--------------------------------------------------|
-| Programming         | Python , Golang, C++                             |
+| Programming         | Python , C++, Golang                             |
 | Database Management | Oracle Database SQL, MySQL                       |
-| Cloud Computing     | Oracle, Azure                                    |
-| Infrastructure Management | Terraform                                  |
+| Cloud Computing     | Oracle, AWS, Azure                               |
+| Infrastructure as Code (IaC) | Terraform                               |
+| Workflow Orchestration | Apache Airflow                                |
 | CI/CD Tools         | GitHub Actions                                   |
 | MLOps               | MLFlow                                           |
 | Containerization    | Docker                                           |
-| Orchestration       | Kubernetes                                       |
 | Version Control     | Git, GitHub                                      |
 | API Development     | REST API, GraphQL                                |
 | MS Office           | Excel, Powerpoint, Word                          |
@@ -112,10 +112,11 @@ I'm excited about the journey ahead and look forward to collaborating with other
 | Certifications                                                  |    Code       | Acquired | Cred URL   |
 |-----------------------------------------------------------------|---------------|----------|------------|
 | Oracle Cloud Infrastructure Data Science Professional           | 1Z0-1110-23   | &#x2705; | [Verify](https://catalog-education.oracle.com/pls/certview/sharebadge?id=69B0E79DF74022BF351689E761359479683CEA603B519F822D4C9A2456223099) |
-| Oracle Database SQL                                             | 1Z0-071       | &#x2705; | [Verify]() |
-| Microsoft Azure DevOps Expert                                   | AZ-400        | &#x2705; | [Verify]() |
-| Terraform Associate                                             | 003           | &#x2705; | [Verify]() |
-| GitHub Actions                                                  |               | &#x2705; | [Verify]() |
+| AWS Developer Associate                                         |               |          |            |
+| Terraform Associate                                             | 003           |          |            |
+| GitHub Admin                                                    |               |          |            |
+| GitHub Actions                                                  |               |          |            |
+| GitHub Advanced Security                                        |               |          |            |
 
 I have a strong passion for learning, documenting my work, and sharing knowledge. If you are interested in collaborating, have any questions, or want to check out my technical blogs, feel free to reach out to me!
 
