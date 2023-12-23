@@ -22,11 +22,6 @@ and providing ongoing support
 - Identifying areas for process improvement and
 recommending solutions to optimize project management processes
 
-**Reporting & Analysis using Oracle Database SQL**
-
-- Data-Driven Insights: Leveraging my skills in Oracle Database SQL, I transform raw data into actionable insights
-- Tailored Reporting Solutions: I collaborate with colleagues to understand reporting requirements and design customized reporting solutions that cater to specific business needs
-- Cross-Functional Collaboration: Working closely with the reporting team, I synergize my Oracle PPM expertise with database querying capabilities
 
 ## Interests
 - Machine Learning
@@ -92,12 +87,10 @@ I'm excited about the journey ahead and look forward to collaborating with other
 | Technical Skill     | Skills                                           |
 |---------------------|--------------------------------------------------|
 | Programming         | Python , C++, Golang                             |
-| Database Management | Oracle Database SQL, MySQL                       |
-| Cloud Computing     | Oracle, AWS, Azure                               |
+| Database Management | MySQL                                            |
+| Cloud Computing     | Azure                                            |
 | Infrastructure as Code (IaC) | Terraform                               |
-| Workflow Orchestration | Apache Airflow                                |
 | CI/CD Tools         | GitHub Actions                                   |
-| MLOps               | MLFlow                                           |
 | Containerization    | Docker                                           |
 | Version Control     | Git, GitHub                                      |
 | API Development     | REST API, GraphQL                                |
@@ -111,10 +104,8 @@ I'm excited about the journey ahead and look forward to collaborating with other
 ## 📜 Certifications
 | Certifications                                                  |    Code       | Acquired | Cred URL   |
 |-----------------------------------------------------------------|---------------|----------|------------|
-| Oracle Cloud Infrastructure Data Science Professional           | 1Z0-1110-23   | &#x2705; | [Verify](https://catalog-education.oracle.com/pls/certview/sharebadge?id=69B0E79DF74022BF351689E761359479683CEA603B519F822D4C9A2456223099) |
-| AWS Developer Associate                                         |               |          |            |
+| Azure Data Scientist Associate                                  | DP-100        |          |            |
 | Terraform Associate                                             | 003           |          |            |
-| GitHub Admin                                                    |               |          |            |
 | GitHub Actions                                                  |               |          |            |
 | GitHub Advanced Security                                        |               |          |            |
 
