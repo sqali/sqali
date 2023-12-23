@@ -90,10 +90,10 @@ I'm excited about the journey ahead and look forward to collaborating with other
 | Database Management | MySQL                                            |
 | Cloud Computing     | Azure                                            |
 | Infrastructure as Code (IaC) | Terraform                               |
-| CI/CD Tools         | GitHub Actions                                   |
 | Containerization    | Docker                                           |
-| Version Control     | Git, GitHub                                      |
 | API Development     | REST API, GraphQL                                |
+| CI/CD Tools         | GitHub Actions                                   |
+| Version Control     | Git, GitHub                                      |
 | MS Office           | Excel, Powerpoint, Word                          |
 | Coding IDE          | VS Code                                          |
 | GenAI tool          | OpenAI (ChatGPT)                                 |
