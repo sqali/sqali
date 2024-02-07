@@ -35,45 +35,11 @@ recommending solutions to optimize project management processes
 - 🔭 I'm working on personal projects on GitHub and continuously improving them
 - 📚 I love creating GitHub documentation for these tasks to use as technical documentation
 
-
-<!--## What I have learned
-<table>
-<tr><td><strong>Working with GraphQL and REST APIs</strong></td><td>Integrated GitHub's GraphQL API for real-time portfolio updates.</td></tr>
-<tr><td><strong>Version control with Git</strong></td><td>Managed codebase, tracked changes, and collaborated with contributors.</td></tr>
-<tr><td><strong>GitHub for hosting and managing projects</strong></td><td>Used for source control, collaboration, and hosting the portfolio.</td></tr>
-<tr><td><strong>Natural Language Processing (NLP)</strong></td><td>Employed for automated project summaries and chatbot implementations.</td></tr>
-<tr><td><strong>Deep learning with CNNs</strong></td><td>Implemented for document classification tasks.</td></tr>
-<tr><td><strong>Recurrent Neural Networks (LSTMs)</strong></td><td>Applied for spoken digit recognition.</td></tr>
-<tr><td><strong>Multimodal deep learning</strong></td><td>Utilized for Visual Question Answering, combining visual and textual data.</td></tr>
-<tr><td><strong>Semantic Search Engine Development</strong></td><td>Built using NLP techniques for contextual search.</td></tr>
-<tr><td><strong>Automated workflow with GitHub Actions</strong></td><td>Set up CI/CD pipelines and periodic data updates.</td></tr>
-<tr><td><strong>Python in Various Domains</strong></td><td>Used Python for data visualization, chatbot development, and GitHub API interactions.</td></tr>
-<tr><td><strong>Attention mechanisms in deep learning</strong></td><td>Implemented in Visual Question Answering to focus on relevant parts of input data.</td></tr>
-<tr><td><strong>Transfer learning and pre-trained models</strong></td><td>Leveraged existing architectures to expedite training and improve performance.</td></tr>
-<tr><td><strong>Huggingface API for Summarization</strong></td><td>Integrated Huggingface's API to generate concise summaries of pull requests.</td></tr>
-<tr><td><strong>Machine Learning for Skill Proficiency</strong></td><td>Employed ML to dynamically estimate proficiency levels across repositories.</td></tr>
-<tr><td><strong>API Usage Analytics</strong></td><td>Monitored and displayed analytics from third-party services like Huggingface.</td></tr>
-<tr><td><strong>Chatbot development and integration</strong></td><td>Built an interactive interface for portfolio queries using conversational AI.</td></tr>
-<tr><td><strong>Data visualization</strong></td><td>Showcased GitHub submission graphs and other analytical insights using Python.</td></tr>
-<tr><td><strong>Automated system monitoring and updates</strong></td><td>Developed dependency checkers and auto-updaters for consistent project maintenance.</td></tr>
-</table>
--->
-
-
-
 ## Open Source Contributions
 
 I'm passionate about open-source software and have recently started contributing to various projects. My main focus has been on updating and improving documentation to make it more user-friendly and comprehensive.
 
 ![SQAli's GitHub stats](https://github-readme-stats.vercel.app/api?username=sqali&show_icons=true)
-
-<!--### Current Contributions
-
-- [keras-core](https://github.com/keras-team/keras-core/pull/514): Added docstrings to functions
-- [keras-core](https://github.com/keras-team/keras-core/pull/513): Updated the comments based on the code
-- [pandas](https://github.com/pandas-dev/pandas/pull/53980): Updated the documentation to replace the deprecated version of qgrid with Modin-spreadsheet
-- [Huggingface/Transformers](https://github.com/huggingface/transformers/pull/24307): Updated the README documentation to include a comprehensive list of tested versions for different dependencies, ensuring better compatibility and reliability.
--->
 
 ### Future Goals
 
@@ -86,12 +52,11 @@ I'm excited about the journey ahead and look forward to collaborating with other
 
 | Technical Skill     | Skills                                           |
 |---------------------|--------------------------------------------------|
-| Programming         | Python , C++, Golang                             |
+| Programming         | Python , C++                                     |
 | Database Management | MySQL                                            |
-| Cloud Computing     | Azure                                            |
-| Infrastructure as Code (IaC) | Terraform                               |
+| Cloud Computing     | AWS                                              |
 | Containerization    | Docker                                           |
-| API Development     | REST API, GraphQL                                |
+| API Development     | REST API                                         |
 | CI/CD Tools         | GitHub Actions                                   |
 | Version Control     | Git, GitHub                                      |
 | MS Office           | Excel, Powerpoint, Word                          |
@@ -102,12 +67,9 @@ I'm excited about the journey ahead and look forward to collaborating with other
 
 
 ## 📜 Certifications
-| Certifications                                                  |    Code       | Acquired | Cred URL   |
-|-----------------------------------------------------------------|---------------|----------|------------|
-| Azure Data Scientist Associate                                  | DP-100        |          |            |
-| Terraform Associate                                             | 003           |          |            |
-| GitHub Actions                                                  |               |          |            |
-| GitHub Advanced Security                                        |               |          |            |
+| Certifications                                                        |    Code       |         Cred URL          |
+|-----------------------------------------------------------------------|---------------|---------------------------|
+| Oracle Cloud Infrastructure 2023 Certified Data Science Professional  | 1Z0-1110-23   | https://shorturl.at/afuNZ |
 
 I have a strong passion for learning, documenting my work, and sharing knowledge. If you are interested in collaborating, have any questions, or want to check out my technical blogs, feel free to reach out to me!
 
