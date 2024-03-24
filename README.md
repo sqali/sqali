@@ -2,7 +2,7 @@
 
 ## Introduction
 
-I am currently working at TCS as an Oracle PPM Analyst and aspire to transition into the exciting field of deep learning. I have a keen interest in machine learning, deep learning. Currently, I am focused on building a strong foundation in the fundamentals of data science
+I am currently working at TCS as an Oracle PPM Analyst and aspire to transition into the exciting field of Data Analytics.
 
 ## 💼 Work Experience
 
@@ -13,24 +13,26 @@ I am currently working at TCS as an Oracle PPM Analyst and aspire to transition 
 
 **Oracle PPM**
 
--	Collaborating with project teams to understand their business
-requirements and designing solutions that meet their needs
--	Configuring and customizing Oracle PPM software to align
-with project management best practices and client-specific requirements.
--	Training end-users on how to use the Oracle PPM software
-and providing ongoing support
-- Identifying areas for process improvement and
-recommending solutions to optimize project management processes
+- Collaborating with project teams to understand their business requirements and designing solutions that meet their needs
+- Configuring and customizing Oracle PPM software to align with project management best practices and client-specific requirements.
+- Training end-users on how to use the Oracle PPM software and providing ongoing support
+- Identifying areas for process improvement and recommending solutions to optimize project management processes
+
+**Reporting & Analysis using Oracle Database SQL**
+
+- Utilized over 2.5+ years of hands-on experience in SQL, honing skills in Oracle Database SQL enabling the delivery of impactful analytical solutions.
+- Transformed data into actionable insights, resulting in a 3% increase in operational efficiency.
+- Proactively responded to client needs by providing data-driven insights that enabled tracking costs across various business units, resulting in a 7% reduction in expenditure.
+- Leveraged SQL to extract and analyze data related to expenditure items, and expenses incurred by employees, leading to an 11% improvement in cost monitoring and optimization strategies.
+- Automated 5+ Excel reports using VBA, saving approximately 1 hour of weekly time.
 
 
 ## Interests
+- Data Analytics
 - Machine Learning
-- Deep Learning
-- Reinforcement Learning
-
 
 ## What I'm Doing
-- 🌱 I'm currently learning ML, DL
+- 🌱 I'm currently learning Data Analytics
 - 💞️ I'm looking to collaborate on open-source AI and ML projects to enhance my technical skills
 - 🔭 I'm working on personal projects on GitHub and continuously improving them
 - 📚 I love creating GitHub documentation for these tasks to use as technical documentation
@@ -52,9 +54,9 @@ I'm excited about the journey ahead and look forward to collaborating with other
 
 | Technical Skill     | Skills                                           |
 |---------------------|--------------------------------------------------|
-| Programming         | Python , C++                                     |
+| Programming         | Python                                           |
 | Database Management | MySQL                                            |
-| Cloud Computing     | AWS                                              |
+| Cloud Computing     | Azure                                            |
 | Containerization    | Docker                                           |
 | API Development     | REST API                                         |
 | CI/CD Tools         | GitHub Actions                                   |
