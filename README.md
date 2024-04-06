@@ -7,9 +7,20 @@ I am currently working at TCS as an Oracle PPM Analyst and aspire to transition 
 ## 💼 Work Experience
 
 ### Tata Consultancy Services
-***Oracle PPM Analyst***
+***Python Automation Engineer***
 
-*July 2021 - Present, Bhubaneswar, Odisha, India*
+*March 2024 - Present, Bhubaneswar, Odisha, India*
+
+***Data Analyst***
+
+*July 2021 - Feb 2024, Bhubaneswar, Odisha, India*
+
+**Data Analysis**
+
+- Utilized over 2.5+ years of hands-on experience in SQL, honing skills in Oracle Database SQL enabling the delivery of impactful analytical solutions.
+- Transformed data into actionable insights, resulting in a 3% increase in operational efficiency.
+- Leveraged SQL to extract and analyze data related to expenditure items, and expenses incurred by employees, leading to an 11% improvement in cost monitoring and optimization strategies.
+- Automated 5+ Excel reports using VBA, saving approximately 2 hours of weekly time.
 
 **Oracle PPM**
 
@@ -18,16 +29,9 @@ I am currently working at TCS as an Oracle PPM Analyst and aspire to transition 
 - Training end-users on how to use the Oracle PPM software and providing ongoing support
 - Identifying areas for process improvement and recommending solutions to optimize project management processes
 
-**Reporting & Analysis using Oracle Database SQL**
-
-- Utilized over 2.5+ years of hands-on experience in SQL, honing skills in Oracle Database SQL enabling the delivery of impactful analytical solutions.
-- Transformed data into actionable insights, resulting in a 3% increase in operational efficiency.
-- Proactively responded to client needs by providing data-driven insights that enabled tracking costs across various business units, resulting in a 7% reduction in expenditure.
-- Leveraged SQL to extract and analyze data related to expenditure items, and expenses incurred by employees, leading to an 11% improvement in cost monitoring and optimization strategies.
-- Automated 5+ Excel reports using VBA, saving approximately 1 hour of weekly time.
-
 
 ## Interests
+- Data Engineering
 - Data Analytics
 - Machine Learning
 
