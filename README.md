@@ -11,7 +11,10 @@ I am currently working at TCS as a Python Automation Engineer.
 
 *March 2024 - Present, Bhubaneswar, Odisha, India*
 
-***Data Analyst***
+***Python Automation Engineer***
+
+- Automated manual testing tasks by extracting and cleansing data from PDFs using Python libraries like OpenPyXL, Pandas, and regular expressions. Implemented automated processes resulting in a 2-hour reduction in task completion time.
+- Developed an automation script leveraging Azure Databricks to extract data from Hive and seamlessly transfer it into an Azure Data Lake Storage container, significantly reducing data comparison time by approximately 3 hours daily.
 
 *July 2021 - Feb 2024, Bhubaneswar, Odisha, India*
 
@@ -21,13 +24,6 @@ I am currently working at TCS as a Python Automation Engineer.
 - Transformed data into actionable insights, resulting in a 3% increase in operational efficiency.
 - Leveraged SQL to extract and analyze data related to expenditure items, and expenses incurred by employees, leading to an 11% improvement in cost monitoring and optimization strategies.
 - Automated 5+ Excel reports using VBA, saving approximately 2 hours of weekly time.
-
-**Oracle PPM**
-
-- Collaborating with project teams to understand their business requirements and designing solutions that meet their needs
-- Configuring and customizing Oracle PPM software to align with project management best practices and client-specific requirements.
-- Training end-users on how to use the Oracle PPM software and providing ongoing support
-- Identifying areas for process improvement and recommending solutions to optimize project management processes
 
 
 ## Interests
