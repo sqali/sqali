@@ -13,7 +13,7 @@ I am currently working at TCS as a Python Automation Engineer.
 
 ***Python Automation Engineer***
 
-- Automated manual testing tasks by extracting and cleansing data from PDFs using Python libraries like OpenPyXL, Pandas, and regular expressions. Implemented automated processes resulting in a 2-hour reduction in task completion time.
+- Automated manual data validation tasks by extracting and cleansing data from PDFs using Python libraries like OpenPyXL, Pandas, and regular expressions. Implemented automated processes resulting in a 2-hour reduction in task completion time.
 - Developed an automation script leveraging Azure Databricks to extract data from Hive and seamlessly transfer it into an Azure Data Lake Storage container, significantly reducing data comparison time by approximately 3 hours daily.
 
 *July 2021 - Feb 2024, Bhubaneswar, Odisha, India*
