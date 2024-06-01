@@ -7,24 +7,14 @@ I am currently working at TCS as a Python Automation Engineer.
 ## 💼 Work Experience
 
 ### Tata Consultancy Services
+
 ***Python Automation Engineer***
 
 *March 2024 - Present, Bhubaneswar, Odisha, India*
 
-***Python Automation Engineer***
-
-- Automated manual data validation tasks by extracting and cleansing data from PDFs using Python libraries like OpenPyXL, Pandas, and regular expressions. Implemented automated processes resulting in a 2-hour reduction in task completion time.
-- Developed an automation script leveraging Azure Databricks to extract data from Hive and seamlessly transfer it into an Azure Data Lake Storage container, significantly reducing data comparison time by approximately 3 hours daily.
+**Data Analyst**
 
 *July 2021 - Feb 2024, Bhubaneswar, Odisha, India*
-
-**Data Analysis**
-
-- Utilized over 2.5+ years of hands-on experience in SQL, honing skills in Oracle Database SQL enabling the delivery of impactful analytical solutions.
-- Transformed data into actionable insights, resulting in a 3% increase in operational efficiency.
-- Leveraged SQL to extract and analyze data related to expenditure items, and expenses incurred by employees, leading to an 11% improvement in cost monitoring and optimization strategies.
-- Automated 5+ Excel reports using VBA, saving approximately 2 hours of weekly time.
-
 
 ## Interests
 - Data Engineering
