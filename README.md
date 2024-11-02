@@ -61,11 +61,11 @@ I'm excited about the journey ahead and look forward to collaborating with other
 ## 📜 Certifications
 | Certifications                                                        |    Code       |         Cred URL          |
 |-----------------------------------------------------------------------|---------------|---------------------------|
-| Oracle Cloud Infrastructure 2023 Certified Data Science Professional  | 1Z0-1110-23   | https://shorturl.at/afuNZ |
+| Microsoft Certified Azure Data Scientist Associate                    | DP-100        | [Verify](https://shorturl.at/0ldfy) |
 
 I have a strong passion for learning, documenting my work, and sharing knowledge. If you are interested in collaborating, have any questions, or want to check out my technical blogs, feel free to reach out to me!
 
 ## Reach Me
-- LinkedIn: [Sayed Qaiser Ali](https://www.linkedin.com/in/sayed-qaiser-ali-916b181ab/)
-- Twitter: [@qaiser_707](https://twitter.com/qaiser_707)
+- LinkedIn: [Sayed Qaiser Ali](https://www.linkedin.com/in/sqali/)
+- Twitter: [@qaiser_707](https://twitter.com/SayedQAli)
 - Gmail: [qaiserali45@gmail.com](qaiserali45@gmail.com)
