@@ -17,9 +17,7 @@ I am currently working at TCS as a Systems Engineer.
 *July 2021 - Feb 2024, Bhubaneswar, Odisha, India*
 
 ## Interests
-- Data Engineering
-- Data Analytics
-- Machine Learning
+- Data Engineering & Analytics
 
 ## What I'm Doing
 - 🌱 I'm currently learning Data Engineering & Analytics
@@ -44,16 +42,12 @@ I'm excited about the journey ahead and look forward to collaborating with other
 | Technical Skill     | Skills                                           |
 |---------------------|--------------------------------------------------|
 | Programming         | Python                                           |
+| Big Data Framework  | PySpark                                          |
 | Database Management | MySQL                                            |
 | Cloud Computing     | Azure                                            |
 | Containerization    | Docker                                           |
 | API Development     | REST API                                         |
 | CI/CD Tools         | GitHub Actions                                   |
-| Version Control     | Git, GitHub                                      |
-| MS Office           | Excel, Powerpoint, Word                          |
-| Coding IDE          | VS Code                                          |
-| GenAI tool          | OpenAI (ChatGPT)                                 |
-| Operating System    | Windows, Linux                                   |
 
 
 
