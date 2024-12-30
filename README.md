@@ -2,7 +2,7 @@
 
 ## Introduction
 
-I am currently working at TCS as a Python Automation Engineer.
+I am currently working at TCS as a Systems Engineer.
 
 ## 💼 Work Experience
 
@@ -23,7 +23,6 @@ I am currently working at TCS as a Python Automation Engineer.
 
 ## What I'm Doing
 - 🌱 I'm currently learning Data Engineering & Analytics
-- 💞️ I'm looking to collaborate on open-source AI and ML projects to enhance my technical skills
 - 🔭 I'm working on personal projects on GitHub and continuously improving them
 - 📚 I love creating GitHub documentation for these tasks to use as technical documentation
 
